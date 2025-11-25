@@ -1,0 +1,1 @@
+from .moсk_hard_model import get_locations
